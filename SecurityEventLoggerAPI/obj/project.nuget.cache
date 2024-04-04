@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "C3AwHAvdO6wNCeuEr7Q8XCjQv7knUOz3/TI8Gd8OHdh4pOxF9d1lAbOM+DbGud/Y6MRVO25mxxQ2d6zoy+s2Qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cersilvester\\source\\repos\\SecurityEventLoggerAPI\\SecurityEventLoggerAPI\\SecurityEventLoggerAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cersilvester\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\cersilvester\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\cersilvester\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\cersilvester\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\cersilvester\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\cersilvester\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

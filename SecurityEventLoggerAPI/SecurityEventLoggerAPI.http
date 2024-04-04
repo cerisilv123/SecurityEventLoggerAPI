@@ -1,0 +1,6 @@
+@SecurityEventLoggerAPI_HostAddress = http://localhost:5080
+
+GET {{SecurityEventLoggerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
